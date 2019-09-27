@@ -1,9 +1,15 @@
-# react-stepper
+# FORKED REPORT WITH FIX
+Fixed onClick - now any step has onClick and href attribute
+Fixed mouse cursor to pointer
+
+Forked from mu29/react-stepper
+
+## react-stepper
 Well-designed stepper component for react
 
 ## Installation
 ```
-npm install react-stepper-horizontal --save
+npm install atipezda/react-stepper-horizontal --save
 ```
 Then just add `import Stepper from 'react-stepper-horizontal';` into your file.
 
